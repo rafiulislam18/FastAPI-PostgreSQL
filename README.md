@@ -1,1 +1,1 @@
-# FastAPI-PostgreSQL
+# Python FastAPI PostgreSQL
